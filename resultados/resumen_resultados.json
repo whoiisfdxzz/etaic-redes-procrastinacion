@@ -1,0 +1,54 @@
+{
+  "originales": 1200,
+  "duplicados": 6,
+  "filas_invalidas": 5,
+  "depurados": 1189,
+  "base_tres_variables": 1073,
+  "titulaciones_normalizadas": 15,
+  "base_ADET": 491,
+  "base_INF": 582,
+  "medias_figura_1": [
+    3.0229132569558104,
+    2.957865168539326,
+    3.0660377358490565
+  ],
+  "n_figura_1": [
+    611,
+    356,
+    106
+  ],
+  "medias_figura_2": [
+    7.929270833333333,
+    7.520448979591838,
+    7.127202072538861,
+    6.747349397590362,
+    6.292577319587629
+  ],
+  "n_figura_2": [
+    96,
+    245,
+    386,
+    249,
+    97
+  ],
+  "correlaciones": [
+    [
+      "Horas en redes y procrastinación",
+      1073,
+      0.00537,
+      0.8605374380447445
+    ],
+    [
+      "Procrastinación y calificaciones",
+      1073,
+      -0.46142,
+      1.1046488776378444e-57
+    ],
+    [
+      "Horas en redes y calificaciones",
+      1073,
+      -0.05365,
+      0.07895688138184016
+    ]
+  ]
+}

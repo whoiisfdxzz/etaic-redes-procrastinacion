@@ -1,0 +1,10 @@
+﻿Tipo,Variable A,Variable B,Coeficiente,n,r/rho,p
+"sensibilidad, muestra común",dig_redes_h,est_procrastinacion,pearson,1073,0.010339,0.7351454212
+"sensibilidad, pares disponibles",dig_redes_h,est_procrastinacion,spearman,1111,-0.002902,0.9230168599
+"sensibilidad, muestra común",dig_redes_h,nota_media,pearson,1073,-0.039677,0.1940545494
+"sensibilidad, pares disponibles",dig_redes_h,nota_media,spearman,1105,-0.057935,0.05419309284
+"sensibilidad adicional, muestra común",est_procrastinacion,nota_media,pearson,1073,-0.464261,1.828202855e-58
+"exploratorio, pares disponibles",dig_multitarea,est_procrastinacion,spearman,1123,0.083599,0.005058495256
+"exploratorio, pares disponibles",dig_multitarea,nota_media,spearman,1114,-0.082814,0.005680000503
+"exploratorio, pares disponibles",dig_pantalla_h,est_procrastinacion,spearman,1120,-0.016464,0.5820405599
+"exploratorio, pares disponibles",dig_pantalla_h,nota_media,spearman,1109,-0.106803,0.000366799947

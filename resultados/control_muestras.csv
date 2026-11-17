@@ -1,0 +1,8 @@
+﻿Etapa,Registros
+Excel original,1200
+Tras eliminar duplicados exactos,1194
+Filas completas excluidas por valores imposibles,5
+"Registros depurados, incluidos los que tienen vacíos",1189
+Casos completos para tres correlaciones principales,1073
+ADET dentro de casos completos,491
+INF dentro de casos completos,582
