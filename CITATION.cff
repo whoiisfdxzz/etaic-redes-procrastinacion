@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite este repositorio como fuente del código reproducible, sin sustituir la referencia al conjunto de datos."
+type: software
+title: "Análisis de redes sociales procrastinación y nota media"
+version: 1.0.0
+date-released: 2026-11-17
+authors:
+  - name: "whoiisfdxzz"
+url: "https://github.com/whoiisfdxzz/etaic-redes-procrastinacion"
+repository-code: "https://github.com/whoiisfdxzz/etaic-redes-procrastinacion"

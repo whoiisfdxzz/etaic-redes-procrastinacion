@@ -1,0 +1,10 @@
+{
+  "archivo_recibido_sha256": "5b3f437679c106011df63170d57aef33a36a67e5724f5eefb2585d3ff96ab286",
+  "archivo_adaptado_sha256": "a8fa85663834c24b1edcd1634627819d0bfd5c29b5619ccc53fda70b5330f831",
+  "cambios": [
+    "Lectura con openpyxl",
+    "Pearson adicional procrastinación-nota",
+    "Exportación de descriptivos y disponibilidad"
+  ],
+  "datos_simulados": true
+}
